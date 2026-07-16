@@ -123,4 +123,4 @@ This project uses:
 
 ## 👩‍💻 Author
 
-Fatmanur Polat
+Fatma Nur POLAT
